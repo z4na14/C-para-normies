@@ -7,8 +7,7 @@
 └── 1.3. Como usar CMake  
 2. Variables
 ├── 2.1. Tipos
-├── 2.2. Reglas para los nombres
-└── 2.3. Casting
+└── 2.2. Casting
 3. Directivas de preprocesador
 ├── 3.1. \#include
 ├── 3.2. \#define
