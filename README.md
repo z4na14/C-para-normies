@@ -91,3 +91,5 @@ Hay [ejemplos](Ejemplos/) a disposición para ver como se usan ciertas cosas exp
 – [GNU C reference manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 – [The Open Group](https://pubs.opengroup.org/onlinepubs/9799919799/)
+
+- [C statement decomposer](https://cdecl.org/)
